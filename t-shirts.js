@@ -67,7 +67,7 @@ const tshirts = [
     stock: 2,
     quantity: 1
   }
-]
+];
 
 // ============================
 // TSHIRT COMPONENT
